@@ -1,0 +1,8 @@
+# Ignore everything by default
+/*
+
+# Keep only the Go interface file and this .gitignore
+!.gitignore
+!README.md
+!LICENSE
+!out
